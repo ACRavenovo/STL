@@ -27,6 +27,12 @@
     <ClCompile Include="MyDate.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MyTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyVector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyDate.h">

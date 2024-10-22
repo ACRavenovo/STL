@@ -131,6 +131,8 @@
     <ClCompile Include="MyComplex.cpp" />
     <ClCompile Include="MyDate.cpp" />
     <ClCompile Include="MyString.cpp" />
+    <ClCompile Include="MyTest.cpp" />
+    <ClCompile Include="MyVector.cpp" />
     <ClCompile Include="RuturnByReference.cpp" />
   </ItemGroup>
   <ItemGroup>

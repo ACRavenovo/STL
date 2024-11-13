@@ -1,8 +1,0 @@
-﻿  main.cpp
-D:\Project\STL\STL\MyVector.hpp(216,23): warning C4244: “参数”: 从“float”转换到“const Vector<int>::size_type”，可能丢失数据
-D:\Project\STL\STL\MyVector.hpp(213,1): message : 在编译 类 模板 成员函数“void Vector<int>::push_back(int &&)”时
-D:\Project\STL\STL\main.cpp(10,16): message : 查看对正在编译的函数 模板 实例化“void Vector<int>::push_back(int &&)”的引用
-D:\Project\STL\STL\main.cpp(7,17): message : 查看对正在编译的 类 模板 实例化“Vector<int>”的引用
-  MyAllocator.hpp
-  正在生成代码...
-  STL.vcxproj -> D:\Project\STL\x64\Debug\STL.exe
